@@ -10,7 +10,6 @@ public class ProductOrderMain2 {
         sc.nextLine();
 
 
-
         ProductOrder[] objArray = new ProductOrder[n];
         for(int i = 0; i < n; i++) {
             objArray[i] = new ProductOrder();
