@@ -4,8 +4,8 @@ import java.lang.reflect.Member;
 
 public class MethodInitMain1 {
     public static void main(String[] args) {
-        MemberInit obj1 = new MemberInit();
-        MemberInit obj2 = new MemberInit();
+        MemberInit obj1 = new MemberInit("학생1", 13, "A+");
+        MemberInit obj2 = new MemberInit("학생2", 12, "B");
 
 
         MemberInit[] objArray = new MemberInit[2];
