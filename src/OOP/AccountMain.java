@@ -7,6 +7,5 @@ public class AccountMain {
         account1.withdraw(9000);
         account1.withdraw(2000);
         System.out.println(account1.balance);
-
     }
 }
