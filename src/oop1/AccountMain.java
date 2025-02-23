@@ -1,4 +1,4 @@
-package OOP;
+package oop1;
 
 public class AccountMain {
     public static void main(String[] args) {

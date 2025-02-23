@@ -1,4 +1,4 @@
-package OOP;
+package oop1;
 
 public class Rectangle {
     int width;
