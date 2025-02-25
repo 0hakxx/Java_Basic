@@ -1,7 +1,7 @@
 package pack;
 
 public class Data {
-    Data(){
-        System.out.println("생성자 호출");
+    public Data() {
+        System.out.println("패키지 pack Data 생성");
     }
 }

@@ -7,10 +7,11 @@ public class PublicClass {
         DefaultClass2 class2 = new DefaultClass2();
     }
 }
+
 class DefaultClass1 {
-    public static void main() {
-        System.out.println("Default 클래스 호출");
-    }
+
 }
+
 class DefaultClass2 {
+
 }
